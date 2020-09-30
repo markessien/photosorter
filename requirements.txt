@@ -1,0 +1,4 @@
+pyheif
+Pillow
+ExifRead
+dateparser
